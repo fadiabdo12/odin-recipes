@@ -1,0 +1,12 @@
+body {
+  background-color: beige;
+}
+
+.recipie-title {
+  text-align: center;
+  background-color: peachpuff;
+}
+
+.ingredients-container {
+  background-color: rgb(244, 205, 205);
+}

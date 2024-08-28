@@ -1,0 +1,16 @@
+body {
+  background-color: beige;
+}
+
+.website-header {
+  background-color: peachpuff;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+  background-color: peachpuff;
+  color: black;
+  font-size: 20px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
